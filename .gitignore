@@ -1,0 +1,6 @@
+data/*
+data/
+code/*.pyc
+code/preprocessing/*.pyc
+experiments/*
+experiments/
